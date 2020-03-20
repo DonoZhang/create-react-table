@@ -1,0 +1,23 @@
+{
+  "name": "create-react-table",
+  "version": "1.0.0",
+  "description": "Create a table from an array of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonoZhang/create-react-table.git"
+  },
+  "keywords": [
+    "table",
+    "react"
+  ],
+  "author": "Dapeng Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonoZhang/create-react-table/issues"
+  },
+  "homepage": "https://github.com/DonoZhang/create-react-table#readme"
+}
